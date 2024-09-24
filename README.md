@@ -1,5 +1,6 @@
 # CrestCoin - Cryptocurrency Insights at Your Fingertips
 **Get the Real-time cryptocurrency data and market insights in a fully responsive Single Page Application (SPA).**
+***
 ![Screenshot 2024-09-24 143627](https://github.com/user-attachments/assets/1c889b6e-30a3-431a-a312-a09041e52a95)
 # Table of Contents
 * Project Overview
