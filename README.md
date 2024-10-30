@@ -6,7 +6,7 @@
 * Project Overview
 * Why CrestCoin is Useful
 * Getting Started
-* Help and Support
+* Support and help
 * Contributors and Maintainers
 
 # Project Overview
